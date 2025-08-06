@@ -1,0 +1,2 @@
+# UPBIT-AI
+UPBIT AI 리포지토리
